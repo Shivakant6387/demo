@@ -1,0 +1,9 @@
+1)pwd
+2)cd
+3)git branch -a
+4)git branch new branch name(newbranch)
+5)git checkout newbranch(checkouut filename)
+6)git branch -a(check file)
+7)git checkout master (checkout master )
+8)git branch -m newbranch newfile(update name)
+9)git branch -d newfile(delete)
